@@ -92,4 +92,7 @@
     <img src="https://github.com/user-attachments/assets/cf3c1dd0-f616-4f4d-8e5e-ad19a1ee8349" width=70%>
   </div>
 </details>
+<detail>
+  <summary><b>2025-1 AJOU SOFTCON 캡스톤디자인 개발부문 우수상(2위)</b></summary>
+</detail>
 
